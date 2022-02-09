@@ -56,3 +56,8 @@ body {
   color: #fff;
   border-bottom-color: #fff;
 }
+
+.mediaFlex{
+  display: flex;
+  justify-content: center;
+}
